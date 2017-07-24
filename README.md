@@ -13,11 +13,12 @@ define your potential. Interviews can be lost for a multitude of reasons,
 most of which are outside your control.
 
 - You got stumped on that one question you hadn't prepared for.
-- You stumbled on something you knew but couldn't describe it clearly. 
+- You stumbled on something you knew but couldn't describe clearly. 
 - You gave an answer in a way that the interviewer wasn't expecting or didn't
  understand. 
 - The interviewer didn't *click* with you.
 - The position was filled internally.
+- The position was canceled.
 
 Some of these things can be dealt with by practicing more, but some of it is 
 just a fluke which can be summed up as having a "bad day".
@@ -30,16 +31,16 @@ be ready for the next interview. This is where caution is needed, resist that
 urge and just focus on the next interview.
 
 We are in a fantastic time for being able to build confidence for technical
-interviews. There are so many resources that let exercise your skills with any 
-language you can imagine that give you direct feedback on how you are doing.
-Platforms like [Hacker Rank](www.hackerrank.com) contain many interview type 
+interviews. There are so many resources that let you exercise your skills with 
+any language you can imagine and give direct feedback on how you are doing.
+Platforms like [Hacker Rank](https://www.hackerrank.com) contain many interview type 
 problems and let you write solutions in a variety of languages. These platforms
 run your solution through tests that exercise the correctness both of the results
 and the complexity. Doing as many of these as possible and passing all of the
 tests is incredibly valuable for being prepared and for building confidence.
 
 You can do practice interviews with experienced interviewers at places like
-[Code Mentor](www.codementor.io). This will help with delivery and to get
+[Code Mentor](https://www.codementor.io). This will help with delivery and to get
 honest feedback about how you did and why the interviewer would or would not
 choose you based on the interview.
 
@@ -57,5 +58,5 @@ candidate.
 So don't be discouraged if you don't make it on the first try. Pull yourself
 up again and get back out there and show them what you can do. If you don't get
 one interview it is likely not because you can't do the job, but because it
-just wasn't your time. Train hard, practice, and believe in yourself and you
+just wasn't the right time. Train hard, practice, and believe in yourself and you
 will get the interview that really counts.
